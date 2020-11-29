@@ -1,5 +1,6 @@
 # WT-II-bank
 kln bank
+
 This project aims at modeling an online bank system. 
 The website is complete with the general functionalities of any online bank. We have included separate pages for loans, investments and account information.
 As an intelligent component for the website, we have added a recommendation system to suggest various loans and investment opportunities to customers. 
